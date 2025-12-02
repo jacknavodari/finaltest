@@ -1,16 +1,23 @@
-# FinalTestApp
+# FinalTestApp - AI-Powered Windows App Builder
 
-FinalTestApp is an Electron application for managing school schedules and events.
+FinalTestApp is an Electron application designed to help developers create new Windows applications enhanced with AI capabilities. This tool provides an interface to integrate AI models like Gemini, Claude, and Qwen into Windows applications.
 
 ## Features
 
-- View weekly schedule organized by days
-- Add custom events and appointments
-- Track current and upcoming classes
-- Dark mode support
-- Teacher information display
-- Student name customization
-- Local storage persistence
+- Create Windows applications with integrated AI capabilities
+- Interface with popular AI models (Gemini, Claude, Qwen)
+- Cross-platform development framework
+- Dark mode support for comfortable development
+- Modern UI with customizable interface
+- Local storage for saving project configurations
+
+## How It Works
+
+FinalTestApp serves as a development environment where users can:
+- Design application interfaces
+- Integrate AI model APIs
+- Build and package Windows applications
+- Test AI features before deployment
 
 ## Prerequisites
 
